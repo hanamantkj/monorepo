@@ -1,5 +1,5 @@
 {
-    "name": "@sonata/input",
+    "name": "@sonata-inputs",
     "version": "1.0.8",
     "main": "lib/index.js",
     "module": "src/index.js",
@@ -16,5 +16,5 @@
         "react-dom": "^16.13.1",
         "styled-components": "^5.1.1"
     },
-    "gitHead": "91356fd1ef398cdf1edfec6c8d9c285bfb39113c"
+    "gitHead": "ff12979055ed0f140686c5f3558e8b53b889971b"
 }
